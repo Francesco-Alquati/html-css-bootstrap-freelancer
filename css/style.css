@@ -3,3 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: Arial, sans-serif;
+}
+/* background e colori  */
+ 
+.bg-petrol{
+    background-color: #1e2635ee;
+}
