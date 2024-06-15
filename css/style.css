@@ -11,3 +11,67 @@ body{
 .bg-petrol{
     background-color: #1e2635ee;
 }
+
+.bg-mypetrol{
+    background-color: #1e2635ee;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.bg-acquamarine{
+    height: 500px;
+    background-color: #3FC69C;
+    border: 1px solid black;
+}
+.bg-briks{
+    background-color: brown;
+    height: 200px;
+    border: 1px solid black;
+}
+.bg-cake{
+    background-color: rgb(75, 42, 165);
+    height: 200px;
+    border: 1px solid black;
+}
+
+.bg-myblack{
+    background-color: rgb(0, 0, 0);
+    height: 200px;
+    border: 1px solid black;
+}
+
+.bg-myblue{
+    background-color: blue;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.bg-mybeige{
+    background-color: rgb(240, 236, 133);
+    height: 200px;
+    border: 1px solid black;
+}
+
+.bg-my-lblue{
+    background-color: rgb(91, 91, 250);
+    height: 200px;
+    border: 1px solid black;
+}
+
+.bg-mywhite{
+    background-color: white;
+    height: 500px;
+    border: 1px solid black;
+}
+
+.bg-wallet{
+    background-color: white;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.bg-mygrey{
+    background-color: #404d67ee;
+    height: 400px;
+    border: 1px solid black;
+}
