@@ -6,6 +6,66 @@
 body{
     font-family: Arial, sans-serif;
 }
+header{
+    background-color: #1e2635ee;
+}
+
+.jumbo{
+    background-color: #3FC69C;
+}
+
+/* classi di stile  */
+
+ul{
+    display: flex;
+    list-style-type: none;
+}
+
+.content-jumbo img{
+    width: 55%;
+    margin: 30px 0px;
+}
+
+.content-jumbo li{
+    margin-left: 5px;
+ }
+
+.content-about p{
+    padding: 5px 90px;
+    font-size: 18px;
+    line-height: 23px;
+}
+
+.content-contact input,
+.content-contact textarea{
+    border: none;
+}
+
+
+.lines-w:before,
+.lines-w:after{
+    content: '';
+    width: 80px;
+    height: 3px;
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.lines:before,
+.lines:after{
+    content: '';
+    width: 80px;
+    height: 3px;
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.content-card img{
+    width: 100%;
+}
+
 /* background e colori  */
  
 .bg-petrol{
@@ -25,36 +85,36 @@ body{
 }
 .bg-briks{
     background-color: brown;
-    height: 200px;
+    height: 300px;
     border: 1px solid black;
 }
 .bg-cake{
     background-color: rgb(75, 42, 165);
-    height: 200px;
+    height: 300px;
     border: 1px solid black;
 }
 
 .bg-myblack{
     background-color: rgb(0, 0, 0);
-    height: 200px;
+    height: 300px;
     border: 1px solid black;
 }
 
 .bg-myblue{
     background-color: blue;
-    height: 200px;
+    height: 300px;
     border: 1px solid black;
 }
 
 .bg-mybeige{
     background-color: rgb(240, 236, 133);
-    height: 200px;
+    height: 300px;
     border: 1px solid black;
 }
 
 .bg-my-lblue{
     background-color: rgb(91, 91, 250);
-    height: 200px;
+    height: 300px;
     border: 1px solid black;
 }
 
